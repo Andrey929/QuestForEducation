@@ -1,0 +1,25 @@
+body{
+    background-color: dimgray;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-left: 40px;
+    margin-top: 70px;
+    padding: 70px 100px;
+    outline: none;
+    background: transparent;
+    border: 2px solid #F2E9E4;
+    border-radius: 12px;
+    color: #fff;
+    font-size: 20px;
+
+}
